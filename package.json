@@ -1,5 +1,5 @@
 {
-  "name": "vc-contact_peer-server",
+  "name": "bc-meeting_peer-server",
   "version": "0.1.0",
   "main": "app.js",
   "scripts": {
