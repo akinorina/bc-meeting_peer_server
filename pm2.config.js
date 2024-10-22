@@ -1,6 +1,6 @@
 module.exports = {
   apps : [{
-    name: "vc-contact_peer-server",
+    name: "bc-meeting_peer-server",
     script: "app.js",
     exec_mode: 'cluster',
     instances: 2,
